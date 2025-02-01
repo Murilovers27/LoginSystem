@@ -3,7 +3,8 @@
 ## Descrição do projeto
 Desenvolvimento de um sistema de cadastro back-end em Java utilizando Spring Boot. Possui funções de verificação de usuário, autenticação de senha, criação de tokens personalizados a fim de maior segurança dos dados e gerenciamento
 
-##Funcionalidades
+##Funcionalidades ⚙
+
 ✔️ Login.
 
 ✔️ Criação de tokens.
